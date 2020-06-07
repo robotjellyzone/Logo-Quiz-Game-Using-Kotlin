@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Funny Trivia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="try_again">Try Again !</string>
+    <string name="submit_button">Submit</string>
+    <string name="title_trivia_question">Logo Trivia (%1$d/%2$d)</string>
+    <string name="share">Share</string>
+    <string name="rules">Rules</string>
+    <string name="summary">Summary</string>
+    <string name="share_winning_text">I won the logo quiz game with %1$d/%2$d correct questions</string>
+    <string name="title_trivia">Logo Trivia</string>
+    <string name="rules_text">Choose the Correct Logo by selecting the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="clear">Clear</string>
+
+    <!-- Output to TextView styled with a little HTML -->
+    <string name="title"><![CDATA[<h3>HERE IS YOUR SUMMARY:</h3>]]></string>
+    <string name="questions"><![CDATA[<b>Number of questions:</b>]]></string>
+    <string name="answers"><![CDATA[<b>Number of Correct Answers:</b>]]></string>
+    <string name="cleared_message">All Your Score Summary Is Cleared Forever !!</string>
+    <string name="play">Play</string>
+
+</resources>
