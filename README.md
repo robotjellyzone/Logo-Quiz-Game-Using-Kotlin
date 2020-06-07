@@ -5,8 +5,8 @@ I developed this app using kotlin as a main language and as i was a novice in ko
 
 In this app, I used the following concepts [which i learnt in this program] :
 
-[x] Layouts (constraint & linear).
-[x] Navigation, External Activity (Share).
-[x] Activity & Fragments (with lifecycles - using log statements).
-[x] DataBinding with ViewModel & LiveData (with Transformation).
-[x] Room Database with Coroutines (for storing the scores).
+- [x] Layouts (constraint & linear).
+- [x] Navigation, External Activity (Share).
+- [x] Activity & Fragments (with lifecycles - using log statements).
+- [x] DataBinding with ViewModel & LiveData (with Transformation).
+- [x] Room Database with Coroutines (for storing the scores).
